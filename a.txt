@@ -1,1 +1,2 @@
 This is 1st line of a.txt
+This 2nd line added by user2
